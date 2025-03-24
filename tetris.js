@@ -1,4 +1,4 @@
-// Tetris game logic goes here
+import * as THREE from 'three';
 
 // Initialize Three.js scene
 const scene = new THREE.Scene();
